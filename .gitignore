@@ -1,0 +1,8 @@
+# the folders a routine creates at runtime - never commit your own run data
+state/
+logs/
+alerts/
+reports/
+drafts/
+inbox/
+.DS_Store
